@@ -1,0 +1,22 @@
+C:\Users\Rony\Desktop\Lista\Lista3Ex13\Lista3Ex13\bin\Debug\Lista3Ex13.exe.config
+C:\Users\Rony\Desktop\Lista\Lista3Ex13\Lista3Ex13\bin\Debug\Lista3Ex13.exe
+C:\Users\Rony\Desktop\Lista\Lista3Ex13\Lista3Ex13\bin\Debug\Lista3Ex13.pdb
+C:\Users\Rony\Desktop\Lista\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.csproj.AssemblyReference.cache
+C:\Users\Rony\Desktop\Lista\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rony\Desktop\Lista\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.Form1.resources
+C:\Users\Rony\Desktop\Lista\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.Properties.Resources.resources
+C:\Users\Rony\Desktop\Lista\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.csproj.GenerateResource.cache
+C:\Users\Rony\Desktop\Lista\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.csproj.CoreCompileInputs.cache
+C:\Users\Rony\Desktop\Lista\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.exe
+C:\Users\Rony\Desktop\Lista\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.pdb
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex13\Lista3Ex13\bin\Debug\Lista3Ex13.exe.config
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex13\Lista3Ex13\bin\Debug\Lista3Ex13.exe
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex13\Lista3Ex13\bin\Debug\Lista3Ex13.pdb
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.csproj.AssemblyReference.cache
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.csproj.SuggestedBindingRedirects.cache
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.Form1.resources
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.Properties.Resources.resources
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.csproj.GenerateResource.cache
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.csproj.CoreCompileInputs.cache
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.exe
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex13\Lista3Ex13\obj\Debug\Lista3Ex13.pdb

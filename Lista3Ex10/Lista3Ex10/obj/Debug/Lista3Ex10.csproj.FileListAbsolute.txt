@@ -1,0 +1,33 @@
+C:\Users\Rony\Desktop\Lista\Lista3Ex10\Lista3Ex10\bin\Debug\Lista3Ex10.exe.config
+C:\Users\Rony\Desktop\Lista\Lista3Ex10\Lista3Ex10\bin\Debug\Lista3Ex10.exe
+C:\Users\Rony\Desktop\Lista\Lista3Ex10\Lista3Ex10\bin\Debug\Lista3Ex10.pdb
+C:\Users\Rony\Desktop\Lista\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.csproj.AssemblyReference.cache
+C:\Users\Rony\Desktop\Lista\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rony\Desktop\Lista\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.Form1.resources
+C:\Users\Rony\Desktop\Lista\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.Properties.Resources.resources
+C:\Users\Rony\Desktop\Lista\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.csproj.GenerateResource.cache
+C:\Users\Rony\Desktop\Lista\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.csproj.CoreCompileInputs.cache
+C:\Users\Rony\Desktop\Lista\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.exe
+C:\Users\Rony\Desktop\Lista\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.pdb
+C:\Users\Rony\Desktop\Lista03\Lista3Ex10\Lista3Ex10\bin\Debug\Lista3Ex10.exe.config
+C:\Users\Rony\Desktop\Lista03\Lista3Ex10\Lista3Ex10\bin\Debug\Lista3Ex10.exe
+C:\Users\Rony\Desktop\Lista03\Lista3Ex10\Lista3Ex10\bin\Debug\Lista3Ex10.pdb
+C:\Users\Rony\Desktop\Lista03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.csproj.AssemblyReference.cache
+C:\Users\Rony\Desktop\Lista03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rony\Desktop\Lista03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.Form1.resources
+C:\Users\Rony\Desktop\Lista03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.Properties.Resources.resources
+C:\Users\Rony\Desktop\Lista03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.csproj.GenerateResource.cache
+C:\Users\Rony\Desktop\Lista03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.csproj.CoreCompileInputs.cache
+C:\Users\Rony\Desktop\Lista03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.exe
+C:\Users\Rony\Desktop\Lista03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.pdb
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex10\Lista3Ex10\bin\Debug\Lista3Ex10.exe.config
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex10\Lista3Ex10\bin\Debug\Lista3Ex10.exe
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex10\Lista3Ex10\bin\Debug\Lista3Ex10.pdb
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.csproj.AssemblyReference.cache
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.csproj.SuggestedBindingRedirects.cache
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.Form1.resources
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.Properties.Resources.resources
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.csproj.GenerateResource.cache
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.csproj.CoreCompileInputs.cache
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.exe
+C:\Users\biels\OneDrive\Área de Trabalho\LISTA03\Lista3Ex10\Lista3Ex10\obj\Debug\Lista3Ex10.pdb
